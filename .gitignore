@@ -6,3 +6,6 @@
 **/*.elf
 **/*.map
 **/*.img
+
+chatlogs-hw2/
+chatlogs.tar.xz
